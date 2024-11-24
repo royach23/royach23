@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Android App development
+- 🌱 I’m currently learning Web App development
 - 📫 How to reach me: roy.achituv@gmail.com
 
 <!--
