@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web App development
 - 📫 How to reach me: roy.achituv@gmail.com
 
 <!--
@@ -8,6 +7,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Android App development
 - 📫 How to reach me: roy.achituv@gmail.com
 -->
